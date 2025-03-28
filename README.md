@@ -8,12 +8,6 @@
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeelan-basha-508a19314/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeelanbasha80@gmail.com)  
-
-
-## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeelan-basha-508a19314/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeelanbasha80@gmail.com)  
-
 ---
 
 <h2>🚀 Languages and Tools I Use</h2>  
@@ -51,13 +45,6 @@
 </p>  
 
 ---
-
-<h2>⚡️ Where to find me</h2>  
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/jeelan-basha-508a19314/">
-<img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>  
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeelan80&show_icons=true&locale=en&layout=compact" alt="Jeelan80" /></p>
 
