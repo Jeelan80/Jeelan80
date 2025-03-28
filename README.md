@@ -1,8 +1,8 @@
 # 💫 About Me:
 <h1>Hi 👋, I'm Jeelan</h1>
 
-- 🔭 I’m currently working on **AI-powered projects & full-stack development**  
-- 🌱 I’m currently learning **advanced DSA & system design**  
+- 🔭 I’m currently working on **Game Changing Projects & full-stack development**  
+- 🌱 I’m currently learning **advanced DSA, Web and Application Developement**  
 - 💬 Ask me about **Python, AI/ML, and full-stack development**  
 - 📫 How to reach me: **jeelanqwer@gmail.com**
 
