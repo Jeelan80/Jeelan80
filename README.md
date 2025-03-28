@@ -4,12 +4,11 @@
 - 🔭 I’m currently working on **AI-powered projects & full-stack development**  
 - 🌱 I’m currently learning **advanced DSA & system design**  
 - 💬 Ask me about **Python, AI/ML, and full-stack development**  
-- 📫 How to reach me: **jeelanbasha80@gmail.com**  
-- ⚡ Fun fact: **I won an IDEATHON & love coding challenges!**  
+- 📫 How to reach me: **jeelanqwer@gmail.com**
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeelan-basha-508a19314/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeelanbasha80@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeelanqwer@gmail.com)  
 ---
 
 <h2>🚀 Languages and Tools I Use</h2>  
