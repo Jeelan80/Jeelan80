@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h1>Hi 👋, I'm Jeelan</h1>
 - 🔭 I’m currently working on **AI-powered projects & full-stack development**  
 - 🌱 I’m currently learning **advanced DSA & system design**  
 - 💬 Ask me about **Python, AI/ML, and full-stack development**  
